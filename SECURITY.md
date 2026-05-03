@@ -12,7 +12,7 @@ If you believe you have found a security vulnerability in any repository owned b
 
 **Please do not report security vulnerabilities through public issues, discussions, or pull requests.**
 
-Instead, please send an email to the project maintainers at [provide a secure contact email, e.g., security@example.com].
+Instead, please send an email to the project maintainers.
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue:
 
