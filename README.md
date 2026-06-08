@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ## Projects
 
-- [orographiclouds](https://orographiclouds.github.io/orographiclouds/)
+- [orographiclouds](https://orographiclouds.xyz)
 - See all Projects.
 
